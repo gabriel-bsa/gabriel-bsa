@@ -34,8 +34,11 @@ Utilizo ativamente **Engenharia de Prompt** com LLMs (ChatGPT, Claude, Gemini) a
 ---
 
 ### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriel-bsa&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-bsa&layout=compact&theme=dark)
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-bsa&theme=github_dark" height="150" alt="Detalhes do Perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel-bsa&theme=github_dark" height="150" alt="Linguagens mais comitadas" />
+</p>
 
 ---
 
