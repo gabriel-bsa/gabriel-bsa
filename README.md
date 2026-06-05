@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Sá! 👋
 
-Atualmente atuo como **Desenvolvedor Full Stack na Citel** e sou graduando em **Engenharia de Software** pela Universidade de Ribeirão Preto (Unaerp).
+Atualmente atuo como **Desenvolvedor Full Stack na Citel** e sou graduando em **Engenharia de Software**.
 
 Sou apaixonado por resolver problemas através do código e por otimizar processos utilizando Inteligência Artificial e automações no meu fluxo de trabalho.
 
