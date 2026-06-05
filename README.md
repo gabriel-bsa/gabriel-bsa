@@ -1,13 +1,52 @@
-### Olá! Eu sou o Gabriel! 
+# Olá, eu sou o Gabriel Sá! 👋
 
-<!-- profile monitor (finish...)-->
-<p align="center">
- <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielSa07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" / >
-    <img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSa07&layout=compact&count_private=true&langs_count=8&theme=tokyonight"/>
- <div>
-<p>
+Atualmente atuo como **Desenvolvedor Full Stack na Citel** e sou graduando em **Engenharia de Software** pela Universidade de Ribeirão Preto (Unaerp).
 
+Sou apaixonado por resolver problemas através do código e por otimizar processos utilizando Inteligência Artificial e automações no meu fluxo de trabalho.
+
+---
+
+### 💻 Minhas Stacks & Ferramentas
+
+Modifique ou organize os ícones abaixo de acordo com o que você mais utiliza:
+
+#### **Linguagens & Back-end**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### **Front-end & Dados**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### **IA, Automação & Cloud**
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🤖 Inteligência Artificial no Desenvolvimento
+Utilizo ativamente **Engenharia de Prompt** com LLMs (ChatGPT, Claude, Gemini) aplicadas à engenharia de software para:
+*   Acelerar a escrita e refatoração de código limpo.
+*   Criar cenários de testes unitários automatizados.
+
+---
+
+### 📈 Estatísticas do GitHub
+
+substitua "SEU-USUARIO" pelo seu nome de usuário real do GitHub nas duas linhas abaixo:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriel-bsa&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-bsa&layout=compact&theme=dark)
+
+---
+
+### 📫 Vamos nos conectar?
+*   **LinkedIn:** [Seu Link do LinkedIn Aqui]
+*   **E-mail:** [Seu E-mail Aqui]
 <!-- tech icons -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
