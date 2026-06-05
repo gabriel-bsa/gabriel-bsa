@@ -8,8 +8,6 @@ Sou apaixonado por resolver problemas através do código e por otimizar process
 
 ### 💻 Minhas Stacks & Ferramentas
 
-Modifique ou organize os ícones abaixo de acordo com o que você mais utiliza:
-
 #### **Linguagens & Ferramentas**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
